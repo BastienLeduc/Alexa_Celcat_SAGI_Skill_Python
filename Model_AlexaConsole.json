@@ -1,7 +1,7 @@
 {
     "interactionModel": {
         "languageModel": {
-            "invocationName": "emplois du temps",
+            "invocationName": "emploi du temps",
             "intents": [
                 {
                     "name": "AMAZON.CancelIntent",
